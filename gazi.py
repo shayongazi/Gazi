@@ -96,7 +96,7 @@ def lock():
 	else:
 		print("𝐒𝐎𝐑𝐑𝐘...𝐘𝐎𝐔 𝐀𝐑𝐄 𝐖𝐑𝐎𝐍𝐆 𝐏𝐄𝐑𝐒𝐎𝐍....")
 		def moon()
-{⚜}ENTER PASSWORD: """)
+{⚜}ENTER PASSWORD:'GAZI')
 	if option in ['GAZI']:
 		os.system('clear')
 		moon()
